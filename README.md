@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there 👋
 
 <!--
 **nitya-d/nitya-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Nitya, a data scientist and software engineer. These are my public software engineering, data science and quantum computing projects. Most of my professional work is on private repos but hopefully this gives you a peak into my development style and ability.
