@@ -1,4 +1,4 @@
-## Hey there 👋
+## Hey there, I'm Nitya 👋
 
 <!--
 **nitya-d/nitya-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Nitya, a data scientist and software engineer. These are my public software engineering, data science and quantum computing projects. Most of my professional work is on private repos but hopefully this gives you a peak into my development style and ability. My core expertise is in Python.
+Data scientist and software engineer tinkering with ML, data, and quantum projects outside of my 9–5. My professional work lives in private repos, but here you’ll find my MVPs, experiments, and ongoing ideas — watch this space! My core toolkit is Python.
