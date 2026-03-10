@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Data scientist & software engineer building ML, data, and quantum computing projects outside my 9–5. Professional work lives in private repos, here you'll find MVPs, experiments, and ongoing ideas.
+Data scientist & software engineer building ML, data, and quantum computing projects outside my 9–5. Professional work lives in private repos, here you'll find MVPs, experiments, and ongoing ideas. <br>
 🔭 Currently exploring machine learning, quantum computing, and hybrid quantum–classical models.
