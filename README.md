@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Data scientist and software engineer tinkering with ML, data, and quantum projects outside of my 9–5. My professional work lives in private repos, but here you’ll find my MVPs, experiments, and ongoing ideas — watch this space! My core toolkit is Python.
+
+Data scientist & software engineer building ML, data, and quantum computing projects outside my 9–5. Professional work lives in private repos, here you'll find MVPs, experiments, and ongoing ideas.
+🔭 Currently exploring machine learning, quantum computing, and hybrid quantum–classical models.
